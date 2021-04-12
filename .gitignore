@@ -1,0 +1,7 @@
+audios/
+ffmpeg_converted/
+normalized/
+327*
+.vscode/
+envinronment/
+.mypy_cache/
